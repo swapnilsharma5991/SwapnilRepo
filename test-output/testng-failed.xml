@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="tests.Listeners"/>
+  </listeners>
+  <test parallel="none" name="Test1(failed)">
+    <classes>
+      <class name="tests.Rediff_createNewAccountTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- tests.Rediff_createNewAccountTest -->
+      <class name="tests.Rediff_ShoppingTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="rediffShoppingPage_validations"/>
+          <include name="setUp"/>
+          <include name="Rediff_loginPageValidation"/>
+          <include name="rediffShoppingPage_Method" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- tests.Rediff_ShoppingTest -->
+      <class name="tests.Rediff_StockMarketTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- tests.Rediff_StockMarketTest -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+  <test parallel="none" name="Test2(failed)">
+    <classes>
+      <class name="tests.Rediff_createNewAccountTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- tests.Rediff_createNewAccountTest -->
+      <class name="tests.Rediff_ShoppingTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- tests.Rediff_ShoppingTest -->
+      <class name="tests.Rediff_StockMarketTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="stockMarket_method" invocation-numbers="0"/>
+          <include name="setUp"/>
+          <include name="loginRediff_Method"/>
+        </methods>
+      </class> <!-- tests.Rediff_StockMarketTest -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+  <test parallel="none" name="Test3(failed)">
+    <classes>
+      <class name="tests.Rediff_createNewAccountTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="rediffmethod1"/>
+          <include name="rediffmethod2" invocation-numbers="0"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- tests.Rediff_createNewAccountTest -->
+      <class name="tests.Rediff_ShoppingTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- tests.Rediff_ShoppingTest -->
+      <class name="tests.Rediff_StockMarketTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- tests.Rediff_StockMarketTest -->
+    </classes>
+  </test> <!-- Test3(failed) -->
+</suite> <!-- Failed suite [Suite] -->

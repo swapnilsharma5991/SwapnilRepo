@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-27T06:21:39Z" name="Suite" finished-at="2022-03-27T06:23:31Z" duration-ms="112069">
+    <groups>
+    </groups>
+    <test started-at="2022-03-27T06:21:39Z" name="Test1" finished-at="2022-03-27T06:22:46Z" duration-ms="66433">
+      <class name="tests.Rediff_ShoppingTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.Rediff_ShoppingTest@615f972]" started-at="2022-03-27T11:51:39Z" name="setUp" finished-at="2022-03-27T11:51:43Z" duration-ms="4240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Rediff_loginPageValidation()[pri:0, instance:tests.Rediff_ShoppingTest@615f972]" started-at="2022-03-27T11:51:43Z" name="Rediff_loginPageValidation" finished-at="2022-03-27T11:52:27Z" duration-ms="43560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Rediff_loginPageValidation -->
+        <test-method signature="rediffShoppingPage_validations()[pri:0, instance:tests.Rediff_ShoppingTest@615f972]" started-at="2022-03-27T11:52:27Z" name="rediffShoppingPage_validations" finished-at="2022-03-27T11:52:29Z" duration-ms="1377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rediffShoppingPage_validations -->
+        <test-method signature="rediffShoppingPage_Method(java.lang.String)[pri:0, instance:tests.Rediff_ShoppingTest@615f972]" started-at="2022-03-27T11:52:30Z" name="rediffShoppingPage_Method" data-provider="getRediffData" finished-at="2022-03-27T11:52:44Z" duration-ms="14012" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mobile phone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rediffShoppingPage_Method -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Rediff_ShoppingTest@615f972]" started-at="2022-03-27T11:52:44Z" name="tearDown" finished-at="2022-03-27T11:52:46Z" duration-ms="1201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.Rediff_ShoppingTest -->
+    </test> <!-- Test1 -->
+    <test started-at="2022-03-27T06:22:46Z" name="Test2" finished-at="2022-03-27T06:23:13Z" duration-ms="26746">
+      <class name="tests.Rediff_StockMarketTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.Rediff_StockMarketTest@5528a42c]" started-at="2022-03-27T11:52:46Z" name="setUp" finished-at="2022-03-27T11:52:48Z" duration-ms="2365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginRediff_Method()[pri:0, instance:tests.Rediff_StockMarketTest@5528a42c]" started-at="2022-03-27T11:52:48Z" name="loginRediff_Method" finished-at="2022-03-27T11:52:53Z" duration-ms="4595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginRediff_Method -->
+        <test-method signature="stockMarket_method(java.lang.String)[pri:0, instance:tests.Rediff_StockMarketTest@5528a42c]" started-at="2022-03-27T11:52:53Z" name="stockMarket_method" data-provider="getRediffData" finished-at="2022-03-27T11:53:11Z" duration-ms="17869" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Infosys Ltd.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stockMarket_method -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Rediff_StockMarketTest@5528a42c]" started-at="2022-03-27T11:53:11Z" name="tearDown" finished-at="2022-03-27T11:53:13Z" duration-ms="1283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.Rediff_StockMarketTest -->
+    </test> <!-- Test2 -->
+    <test started-at="2022-03-27T06:23:13Z" name="Test3" finished-at="2022-03-27T06:23:31Z" duration-ms="18558">
+      <class name="tests.Rediff_createNewAccountTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.Rediff_createNewAccountTest@669253b7]" started-at="2022-03-27T11:53:13Z" name="setUp" finished-at="2022-03-27T11:53:16Z" duration-ms="3714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="rediffmethod1()[pri:0, instance:tests.Rediff_createNewAccountTest@669253b7]" started-at="2022-03-27T11:53:16Z" name="rediffmethod1" finished-at="2022-03-27T11:53:19Z" duration-ms="2792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rediffmethod1 -->
+        <test-method signature="rediffmethod2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.Rediff_createNewAccountTest@669253b7]" started-at="2022-03-27T11:53:20Z" name="rediffmethod2" data-provider="getRediffData" finished-at="2022-03-27T11:53:29Z" duration-ms="9322" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Demon Salvatore]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demon@vampirediaries.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MysticFalls123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[MysticFalls123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[stefan@vampirediaries.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[8.888071555E9]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[United States]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rediffmethod2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Rediff_createNewAccountTest@669253b7]" started-at="2022-03-27T11:53:29Z" name="tearDown" finished-at="2022-03-27T11:53:31Z" duration-ms="2113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.Rediff_createNewAccountTest -->
+    </test> <!-- Test3 -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,7 @@
+22:18:05.424 [main] INFO  com.qa.Rediff.base.base - tear Down: rediffShopping_Method
+22:33:40.792 [main] INFO  com.qa.Rediff.base.base - Before Test
+22:33:43.910 [main] INFO  com.qa.Rediff.base.base - loginRediff_Method
+22:33:55.589 [main] INFO  com.qa.Rediff.base.base - rediffShopping_Method
+22:33:55.941 [main] INFO  com.qa.Rediff.base.base - tear Down: rediffShopping_Method
+22:58:20.058 [main] INFO  com.qa.Rediff.base.base - Before Test
+22:58:23.633 [main] INFO  com.qa.Rediff.base.base - loginRediff_Method

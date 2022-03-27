@@ -1,0 +1,7 @@
+23:05:18.096 [main] INFO  com.qa.Rediff.base.base - tear Down: stockMarket_method
+23:46:30.753 [main] INFO  com.qa.Rediff.base.base - Before Test
+23:46:34.028 [main] INFO  com.qa.Rediff.base.base - loginRediff_Method
+23:46:41.753 [main] INFO  com.qa.Rediff.base.base - Successfully validated shoppingValidation!!!
+23:46:56.189 [main] INFO  com.qa.Rediff.base.base - rediffShopping_Method
+23:46:56.356 [main] INFO  com.qa.Rediff.base.base - tear Down: rediffShopping_Method
+23:46:59.499 [main] INFO  com.qa.Rediff.base.base - Before Test

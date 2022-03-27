@@ -1,0 +1,7 @@
+14:17:13.929 [main] INFO  com.qa.Rediff.base.base - loginRediffTest initiated
+14:17:13.936 [main] INFO  com.qa.Rediff.base.base - loginRediffTest initiated completed
+19:42:10.500 [main] INFO  com.qa.Rediff.base.base - loginRediffTest initiated completed
+18:32:46.993 [main] INFO  com.qa.Rediff.base.base - Before Test
+13:57:34.492 [main] INFO  com.qa.Rediff.base.base - tear Down: rediffShopping_Method
+13:57:37.581 [main] INFO  com.qa.Rediff.base.base - Before Test
+15:09:47.404 [main] INFO  com.qa.Rediff.base.base - tear Down: stockMarket_method

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Default suite]">
+  <test parallel="none" name="Default test(failed)">
+    <classes>
+      <class name="tests.Rediff_createNewAccountTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="rediffmethod1"/>
+          <include name="rediffmethod2"/>
+        </methods>
+      </class> <!-- tests.Rediff_createNewAccountTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

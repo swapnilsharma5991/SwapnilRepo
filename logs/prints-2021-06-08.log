@@ -1,0 +1,7 @@
+23:28:40.229 [main] INFO  com.qa.Rediff.base.base - signInShoppingTest Completed
+23:29:24.356 [main] INFO  com.qa.Rediff.base.base - signInShoppingTest Initiated
+23:29:24.483 [main] INFO  com.qa.Rediff.base.base - signInShoppingTest Completed
+23:29:59.892 [main] INFO  com.qa.Rediff.base.base - Alert Accepted
+23:29:59.893 [main] INFO  com.qa.Rediff.base.base - Create Rediffmail Account---->Pop up handeled
+23:29:59.906 [main] INFO  com.qa.Rediff.base.base - loginRediffTest initiated
+23:30:00.077 [main] INFO  com.qa.Rediff.base.base - loginRediffTest initiated completed

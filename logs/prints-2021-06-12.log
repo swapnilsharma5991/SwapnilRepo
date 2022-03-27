@@ -1,0 +1,7 @@
+23:52:56.736 [main] INFO  com.qa.Rediff.base.base - loginRediff_Method
+23:53:13.706 [main] INFO  com.qa.Rediff.base.base - stockMarket_method
+23:53:13.897 [main] INFO  com.qa.Rediff.base.base - tear Down: stockMarket_method
+23:53:19.032 [main] INFO  com.qa.Rediff.base.base - loginRediffTest initiated
+23:53:26.923 [main] INFO  com.qa.Rediff.base.base - Alert Accepted
+23:53:26.923 [main] INFO  com.qa.Rediff.base.base - Create Rediffmail Account---->Pop up handeled
+23:53:29.930 [main] INFO  com.qa.Rediff.base.base - loginRediffTest initiated
